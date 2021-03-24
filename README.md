@@ -7,6 +7,10 @@
 - 🥅 2021 Goals: Start Contributing to Open Source projects
 - ⚡ Fun fact: I'm a star gazer and from Luxor Egypt
 
+Quotes
+-----
+> If you torture the data long enough, it will confess. - `Ronald Coase`
+
 About
 -----
 My name is Ziad Mansour. I'm a USAID scholar with a demonstrated leadership skills. My lifetime goal is to make people's lives easier, safer and smarter through technology. Strong Problem solving, analytical and lateral thinking skills. Currently pursuing a Bachelor degree focused in Communication and Computer Engineering from Cairo University. With a huge interest in the data disciplines. 
