@@ -1,5 +1,13 @@
 ### Hi there 👋
+![Hello](https://github.com/ZiadMansourM/ZiadMansourM/raw/master/hello.gif)
 
+My name is Ziad Mansour. I'm a USAID scholar with a demonstrated leadership skills. My lifetime goal is to make people's lives easier, safer and smarter through technology. Strong Problem solving, analytical and lateral thinking skills. Currently pursuing a Bachelor degree focused in Communication and Computer Engineering from Cairo University. With a huge interest in the data disciplines. 
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiadMansourM&count_private&show_icons=true&theme=onedark)
+
+<!--![ZiadMansourM's github stats](https://github-readme-stats.vercel.app/api?username=ZiadMansourM&count_private=true&show_icons=true) -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadMansourM&theme=buefy&layout=compact)
 <!--
 **ZiadMansourM/ZiadMansourM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
