@@ -27,6 +27,7 @@ Connect with me
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 </br>
 
@@ -34,6 +35,7 @@ Connect with me
 [facebook]: https://www.facebook.com/Ziad.M.404
 [instagram]: https://www.instagram.com/ziad_m_404/
 [linkedin]: https://www.linkedin.com/in/ziad-mansour/
+[whatsapp]: https://wa.me/201021799950
 
 <!--
 **ZiadMansourM/ZiadMansourM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
