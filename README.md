@@ -1,6 +1,9 @@
 ### Hi there, I'm Ziad 👋
 ![Hello](https://github.com/ZiadMansourM/ZiadMansourM/raw/master/hello.gif)
 
+[![](https://komarev.com/ghpvc/?username=ZiadMansourM&color=blue&label=Profile%20Views)](https://github.com/ZiadMansourM/ZiadMansourM)
+[![](https://img.shields.io/github/followers/ZiadMansourM?label=GitHub%20Followers)](https://github.com/ZiadMansourM)
+
 #### USAID Scholar, EducationUSA ambassador, and Computer Engineering Student!
 
 - 👯 I’m looking to boost my data engineering skills
