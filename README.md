@@ -18,6 +18,10 @@ About
 -----
 My name is Ziad Mansour. I'm a USAID scholar with a demonstrated leadership skills. My lifetime goal is to make people's lives easier, safer and smarter through technology. Strong Problem solving, analytical and lateral thinking skills. Currently pursuing a Bachelor degree focused in Communication and Computer Engineering from Cairo University. With a huge interest in the data disciplines. 
 
+GitHub Gist
+-----------
+View my GitHub Gist Profile [here](https://gist.github.com/ZiadMansourM)
+
 GitHub stats
 ------------
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiadMansourM&count_private&show_icons=true&theme=onedark)
