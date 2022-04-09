@@ -1,13 +1,13 @@
-### Hi there, I'm Ziad 👋
+### Hello there, I'm Ziad 👋
 ![Hello](https://github.com/ZiadMansourM/ZiadMansourM/raw/master/hello.gif)
 
 [![](https://komarev.com/ghpvc/?username=ZiadMansourM&color=blue&label=Profile%20Views)](https://github.com/ZiadMansourM/ZiadMansourM)
 [![](https://img.shields.io/github/followers/ZiadMansourM?label=GitHub%20Followers)](https://github.com/ZiadMansourM)
 
-#### USAID Scholar, EducationUSA ambassador, and Computer Engineering Student!
+#### USAID Scholar, EducationUSA ambassador, and Junior Software Engineer; Doing SRE!
 
-- 👯 I’m looking to boost my data engineering skills
-- 🥅 2021 Goals: Start Contributing to Open Source projects
+- 👯 I’m looking to boost my Site Reliability Engineering - SRE skills
+- 🥅 2022 Goals: Start Contributing to Open Source projects
 - ⚡ Fun fact: I'm a star gazer and from Luxor Egypt
 
 Quotes
@@ -16,7 +16,7 @@ Quotes
 
 About
 -----
-My name is Ziad Mansour. I'm a USAID scholar with a demonstrated leadership skills. My lifetime goal is to make people's lives easier, safer and smarter through technology. Strong Problem solving, analytical and lateral thinking skills. Currently pursuing a Bachelor degree focused in Communication and Computer Engineering from Cairo University. With a huge interest in the data disciplines. 
+My name is Ziad Mansour. USAID Scholar; EducationUSA Ambassdor; Junior Software Engineer; Doing SRE, Loves anything that scales. Generally interested in building and running Large Scale Reliable Applications, Monitoring, Data Infrastructure, and Streaming Systems. My lifetime goal is to make people's lives easier, safer, and smarter through technology. 
 
 GitHub Gist
 -----------
@@ -30,11 +30,11 @@ GitHub stats
 
 Connect with me
 ---------------
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
 </br>
 
