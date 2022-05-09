@@ -1,14 +1,19 @@
-### Hello there, I'm Ziad 👾 - [SREboy.com](https://www.SREboy.com)
-![Hello](https://github.com/ZiadMansourM/ZiadMansourM/raw/master/hello.gif)
+<div align="center">
+  
+  ### Hello there, I'm Ziad 👾 - [SREboy.com](https://www.SREboy.com)
+  ![Hello](https://github.com/ZiadMansourM/ZiadMansourM/raw/master/hello.gif)
 
-[![](https://komarev.com/ghpvc/?username=ZiadMansourM&color=blue&label=Profile%20Views)](https://github.com/ZiadMansourM/ZiadMansourM)
-[![](https://img.shields.io/github/followers/ZiadMansourM?label=GitHub%20Followers)](https://github.com/ZiadMansourM)
+  [![](https://komarev.com/ghpvc/?username=ZiadMansourM&color=blue&label=Profile%20Views)](https://github.com/ZiadMansourM/ZiadMansourM)
+  [![](https://img.shields.io/github/followers/ZiadMansourM?label=GitHub%20Followers)](https://github.com/ZiadMansourM)
+  
+  USAID Scholar, EducationUSA ambassador, and Junior Software Engineer; Doing SRE!
+</div>
 
-#### USAID Scholar, EducationUSA ambassador, and Junior Software Engineer; Doing SRE!
-
+Fun and Random Facts
+-----
 - 👯 I’m looking to boost my Site Reliability Engineering - SRE skills
 - 🥅 2022 Goals: Start Contributing to Open Source projects
-- ⚡ Fun fact: I'm a star gazer and from Luxor Egypt
+- ⚡ I'm a star gazer and from Luxor Egypt
 
 Quotes
 -----
@@ -24,12 +29,16 @@ View my GitHub Gist Profile [here](https://gist.github.com/ZiadMansourM)
 
 GitHub stats
 ------------
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZiadMansourM&count_private&show_icons=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadMansourM&theme=buefy&layout=compact)
+<p align="left">
+  <a href="https://SREboy.com/">
+    <img width="33%" src="https://github-readme-stats.vercel.app/api?username=ZiadMansourM&show_icons=true&theme=onedark&hide_border=true" />
+    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZiadMansourM&theme=onedark&layout=compact" />
+    <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZiadMansourM&theme=onedark&hide_border=true" />
+  </a>
+</p>
 
-
-Connect with me
----------------
+Connect with me @[SREboy.com](https://www.SREboy.com)
+-----------------------------------------------------
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -43,18 +52,3 @@ Connect with me
 [instagram]: https://www.instagram.com/ziad_m_404/
 [linkedin]: https://www.linkedin.com/in/ziad-mansour/
 [whatsapp]: https://wa.me/201021799950
-
-<!--
-**ZiadMansourM/ZiadMansourM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
