@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### Hello there, I'm Ziad 👾 - [SREboy.com](https://www.SREboy.com)
+  ### Hello there, I'm Ziad Manosur 🤖 - [SREboy.com](https://www.SREboy.com)
   ![Hello](https://github.com/ZiadMansourM/ZiadMansourM/raw/master/hello.gif)
 
   [![](https://komarev.com/ghpvc/?username=ZiadMansourM&color=blue&label=Profile%20Views)](https://github.com/ZiadMansourM/ZiadMansourM)
@@ -11,7 +11,7 @@
 
 Fun and Random Facts
 -----
-- 👯 I’m looking to boost my Site Reliability Engineering - SRE skills
+- 🦦 I’m looking to boost my Site Reliability Engineering - SRE skills
 - 🥅 2022 Goals: Start Contributing to Open Source projects
 - ⚡ I'm a star gazer and from Luxor Egypt
 
@@ -36,6 +36,13 @@ GitHub stats
     <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZiadMansourM&theme=onedark&hide_border=true" />
   </a>
 </p>
+
+🫠 Projects
+--------
+| Number | Repo Link  |
+| :-----: | :-: |
+| 1 | [docker-private-registry](https://github.com/ZiadMansourM/docker-private-registry) |
+| 2 | [sk-big-oven-production](https://github.com/ZiadMansourM/sk-big-oven-production) |
 
 Connect with me @[SREboy.com](https://www.SREboy.com)
 -----------------------------------------------------
