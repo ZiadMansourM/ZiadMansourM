@@ -43,6 +43,12 @@ GitHub stats
 | :-----: | :-: |
 | 1 | [docker-private-registry](https://github.com/ZiadMansourM/docker-private-registry) |
 | 2 | [sk-big-oven-production](https://github.com/ZiadMansourM/sk-big-oven-production) |
+| 3 | [mkdocs](https://github.com/ZiadMansourM/mkdocs) && [docusaurus](https://github.com/ZiadMansourM/docusaurus) |
+| 4 | [concurrency-parallelism](https://github.com/ZiadMansourM/concurrency-parallelism) |
+| 5 | [settings](https://github.com/ZiadMansourM/settings) |
+| 6 | [bastet](https://github.com/ZiadMansourM/Bastet) |
+| 7 | [gin](https://github.com/ZiadMansourM/gin) |
+
 
 Connect with me @[SREboy.com](https://www.SREboy.com)
 -----------------------------------------------------
