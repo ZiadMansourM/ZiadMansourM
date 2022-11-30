@@ -27,6 +27,49 @@ GitHub Gist
 -----------
 View my GitHub Gist Profile [here](https://gist.github.com/ZiadMansourM)
 
+Languages and Tools
+-------------------
+<table width="320px">
+    <tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+              <span><strong>Python</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+            </td>
+            <td width="80px" align="center">
+              <span><strong>Go</strong></span><br>
+              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+            </td>
+            <td width="80px" align="center">
+              <span><strong>Rust</strong></span><br>
+              <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
+            </td>
+            <td width="80px" align="center">
+              <span><strong>AWS</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+              <span><strong>Automation</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+            </td>
+            <td width="80px" align="center">
+              <span><strong>Docker</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+            </td>
+            <td width="80px" align="center">
+              <span><strong>Nginx</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg">
+            </td>
+            <td width="80px" align="center">
+              <span><strong>Linux</strong></span><br>
+              <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 GitHub stats
 ------------
 <p align="left">
