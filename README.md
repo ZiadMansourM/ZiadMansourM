@@ -84,15 +84,17 @@ GitHub stats
 --------
 | Number | Repo Link  |
 | :-----: | :-: |
-| 1 | [api-management-solutions](https://github.com/ZiadMansourM/OS-APIM) |
-| 2 | [docker-private-registry](https://github.com/ZiadMansourM/docker-private-registry) |
-| 3 | [sk-big-oven-production](https://github.com/ZiadMansourM/sk-big-oven-production) |
-| 4 | [mkdocs](https://github.com/ZiadMansourM/mkdocs) && [docusaurus](https://github.com/ZiadMansourM/docusaurus) |
-| 5 | [concurrency-parallelism](https://github.com/ZiadMansourM/concurrency-parallelism) |
-| 6 | [settings](https://github.com/ZiadMansourM/settings) |
-| 7 | [bastet](https://github.com/ZiadMansourM/Bastet) |
-| 8 | [gin](https://github.com/ZiadMansourM/gin) |
-
+| 1 | [ScanMate "Graduation Project"](https://docs.scanmate.sreboy.com/) |
+| 2 | [api-management-solutions](https://github.com/ZiadMansourM/OS-APIM) |
+| 3 | [docker-private-registry](https://github.com/ZiadMansourM/docker-private-registry) |
+| 4 | [Jaeger ClickHouse](https://github.com/ZiadMansourM/Jaeger-ClickHouse) |
+| 5 | [windows-server-backups-automation](https://github.com/ZiadMansourM/windows-server-backups-automation) |
+| 6 | [concurrency-parallelism](https://github.com/ZiadMansourM/concurrency-parallelism) |
+| 7 | [settings](https://github.com/ZiadMansourM/settings) |
+| 8 | [bastet](https://github.com/ZiadMansourM/Bastet) |
+| 9 | [gin](https://github.com/ZiadMansourM/gin) |
+| 10 | [sk-big-oven-production](https://github.com/ZiadMansourM/sk-big-oven-production) |
+| 11 | [mkdocs](https://github.com/ZiadMansourM/mkdocs) && [docusaurus](https://github.com/ZiadMansourM/docusaurus) |
 
 Connect with me @[SREboy.com](https://www.SREboy.com)
 -----------------------------------------------------
