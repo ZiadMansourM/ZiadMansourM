@@ -23,9 +23,22 @@ About
 -----
 My name is Ziad Mansour. USAID Scholar; EducationUSA Ambassdor; Junior Software Engineer; Doing SRE, Loves anything that scales. Generally interested in building and running Large Scale Reliable Applications, Monitoring, Data Infrastructure, and Streaming Systems. My lifetime goal is to make people's lives easier, safer, and smarter through technology. 
 
-GitHub Gist
------------
-View my GitHub Gist Profile [here](https://gist.github.com/ZiadMansourM)
+🫠 Projects
+--------
+| Number | Repo Link  |
+| :-----: | :-: |
+| 1 | [ScanMate "Graduation Project"](https://docs.scanmate.sreboy.com/) |
+| 2 | [cheapbot](https://github.com/ZiadMansourM/cheapbot) |
+| 3 | [api-management-solutions](https://github.com/ZiadMansourM/OS-APIM) |
+| 4 | [docker-private-registry](https://github.com/ZiadMansourM/docker-private-registry) |
+| 5 | [Jaeger ClickHouse](https://github.com/ZiadMansourM/Jaeger-ClickHouse) |
+| 6 | [windows-server-backups-automation](https://github.com/ZiadMansourM/windows-server-backups-automation) |
+| 7 | [concurrency-parallelism](https://github.com/ZiadMansourM/concurrency-parallelism) |
+| 8 | [settings](https://github.com/ZiadMansourM/settings) |
+| 9 | [bastet](https://github.com/ZiadMansourM/Bastet) |
+| 10 | [gin](https://github.com/ZiadMansourM/gin) |
+| 11 | [sk-big-oven-production](https://github.com/ZiadMansourM/sk-big-oven-production) |
+| 12 | [mkdocs](https://github.com/ZiadMansourM/mkdocs) && [docusaurus](https://github.com/ZiadMansourM/docusaurus) |
 
 Languages and Tools
 -------------------
@@ -79,22 +92,6 @@ GitHub stats
     <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZiadMansourM&theme=onedark&hide_border=true" />
   </a>
 </p>
-
-🫠 Projects
---------
-| Number | Repo Link  |
-| :-----: | :-: |
-| 1 | [ScanMate "Graduation Project"](https://docs.scanmate.sreboy.com/) |
-| 2 | [api-management-solutions](https://github.com/ZiadMansourM/OS-APIM) |
-| 3 | [docker-private-registry](https://github.com/ZiadMansourM/docker-private-registry) |
-| 4 | [Jaeger ClickHouse](https://github.com/ZiadMansourM/Jaeger-ClickHouse) |
-| 5 | [windows-server-backups-automation](https://github.com/ZiadMansourM/windows-server-backups-automation) |
-| 6 | [concurrency-parallelism](https://github.com/ZiadMansourM/concurrency-parallelism) |
-| 7 | [settings](https://github.com/ZiadMansourM/settings) |
-| 8 | [bastet](https://github.com/ZiadMansourM/Bastet) |
-| 9 | [gin](https://github.com/ZiadMansourM/gin) |
-| 10 | [sk-big-oven-production](https://github.com/ZiadMansourM/sk-big-oven-production) |
-| 11 | [mkdocs](https://github.com/ZiadMansourM/mkdocs) && [docusaurus](https://github.com/ZiadMansourM/docusaurus) |
 
 Connect with me @[SREboy.com](https://www.SREboy.com)
 -----------------------------------------------------
