@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### Hello there, I'm Ziad Manosur 🤖 - [SREboy.com](https://www.SREboy.com)
+  ### Hello there, I'm Ziad Manosur 🤖 - [SREboy.com](https://www.SREboy.com) - [resume](./Ziad%20Hassanin%20-%20Resume.pdf)
   ![Hello](https://github.com/ZiadMansourM/ZiadMansourM/raw/master/hello.gif)
 
   [![](https://komarev.com/ghpvc/?username=ZiadMansourM&color=blue&label=Profile%20Views)](https://github.com/ZiadMansourM/ZiadMansourM)
