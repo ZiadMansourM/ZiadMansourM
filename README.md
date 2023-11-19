@@ -13,7 +13,9 @@
 <div align="center">
 
 <hr/>
-<a href="./Ziad%20Hassanin%20-%20Resume.pdf" style="text-decoration: none;" download="Ziad_Hassanin_Resume.pdf">Download my Resume</a>
+
+#### [Download my Resume](https://github.com/ZiadMansourM/ZiadMansourM/raw/master/Ziad%20Hassanin%20-%20Resume.pdf)
+
 <hr/>
 
 </div>
