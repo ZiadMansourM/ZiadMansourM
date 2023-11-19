@@ -1,12 +1,21 @@
 <div align="center">
   
-  ### Hello there, I'm Ziad Manosur 🤖 - [SREboy.com](https://www.SREboy.com) - [resume](./Ziad%20Hassanin%20-%20Resume.pdf)
+  ### Hello there, I'm Ziad Manosur 🤖 - [SREboy.com](https://www.SREboy.com)
+  
   ![Hello](https://github.com/ZiadMansourM/ZiadMansourM/raw/master/hello.gif)
 
   [![](https://komarev.com/ghpvc/?username=ZiadMansourM&color=blue&label=Profile%20Views)](https://github.com/ZiadMansourM/ZiadMansourM)
   [![](https://img.shields.io/github/followers/ZiadMansourM?label=GitHub%20Followers)](https://github.com/ZiadMansourM)
   
   USAID Scholar, EducationUSA ambassador, and Junior Software Engineer; Doing SRE!
+</div>
+
+<div align="center">
+
+<hr/>
+<a href="./Ziad%20Hassanin%20-%20Resume.pdf" style="text-decoration: none;" download="Ziad_Hassanin_Resume.pdf">Download my Resume</a>
+<hr/>
+
 </div>
 
 Fun and Random Facts
