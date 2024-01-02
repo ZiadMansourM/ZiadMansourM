@@ -22,13 +22,13 @@
 
 Fun and Random Facts
 -----
-- 🦦 I’m looking to boost my Site Reliability Engineering - SRE skills
-- 🥅 2022 Goals: Start Contributing to Open Source projects
-- ⚡ I'm a star gazer and from Luxor Egypt
+- 🦦 I’m looking to boost my Site Reliability Engineering - SRE skills.
+- 🥅 2024 Goals: Contribute more to the Open Source.
+- ⚡ I'm a star gazer and from Luxor Egypt.
 
 Quotes
 -----
-> If you torture the data long enough, it will confess. - `Ronald Coase`
+> A society grows great when old men plant trees in whose shade they know they shall never sit - `Greek proverb`
 
 About
 -----
