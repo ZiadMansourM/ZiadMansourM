@@ -18,6 +18,12 @@
 
 <hr/>
 
+<hr/>
+
+#### [See my Latest Articles](https://notes.sreboy.com/blog)
+
+<hr/>
+
 </div>
 
 Fun and Random Facts
