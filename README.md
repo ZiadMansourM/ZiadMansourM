@@ -2,7 +2,7 @@
   
   ### Hello there, I'm Ziad Manosur 🤖 - [SREboy.com](https://www.SREboy.com)
   
-  ![Hello](https://github.com/ZiadMansourM/ZiadMansourM/raw/master/hello.gif)
+  ![Hello](https://github.com/ZiadMansourM/ZiadMansourM/raw/master/stitch.gif)
 
   [![](https://komarev.com/ghpvc/?username=ZiadMansourM&color=blue&label=Profile%20Views)](https://github.com/ZiadMansourM/ZiadMansourM)
   [![](https://img.shields.io/github/followers/ZiadMansourM?label=GitHub%20Followers)](https://github.com/ZiadMansourM)
