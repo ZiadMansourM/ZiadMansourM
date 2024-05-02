@@ -40,23 +40,16 @@ My name is Ziad Mansour. USAID Scholar; EducationUSA Ambassdor; Junior Software 
 
 🫠 Projects
 --------
-| Number | Repo Link  |
-| :-----: | :-: |
-| 1 | [ScanMate "Graduation Project"](https://docs.scanmate.sreboy.com/) |
-| 2 | [cheapbot](https://github.com/ZiadMansourM/cheapbot) |
-| 3 | [fstr](https://github.com/ZiadMansourM/fstr) |
-| 4 | [api-management-solutions](https://github.com/ZiadMansourM/OS-APIM) |
-| 5 | [MailMetrics](https://github.com/ZiadMansourM/MailMetrics) |
-| 6 | [TA at CMPS446 Image Processing at Cairo University](https://github.com/ZiadMansourM/cmps446) |
-| 7 | [docker-private-registry](https://github.com/ZiadMansourM/docker-private-registry) |
-| 8 | [Jaeger ClickHouse](https://github.com/ZiadMansourM/Jaeger-ClickHouse) |
-| 9 | [windows-server-backups-automation](https://github.com/ZiadMansourM/windows-server-backups-automation) |
-| 10 | [concurrency-parallelism](https://github.com/ZiadMansourM/concurrency-parallelism) |
-| 11 | [settings](https://github.com/ZiadMansourM/settings) |
-| 12 | [bastet](https://github.com/ZiadMansourM/Bastet) |
-| 13 | [gin](https://github.com/ZiadMansourM/gin) |
-| 14 | [sk-big-oven-production](https://github.com/ZiadMansourM/sk-big-oven-production) |
-| 15 | [mkdocs](https://github.com/ZiadMansourM/mkdocs) && [docusaurus](https://github.com/ZiadMansourM/docusaurus) |
+| Number | Repo Name | Description
+| :--: | :--: | :--: |
+| 1 | [ScanMate (Graduation Project)](https://docs.scanmate.sreboy.com/) | Photogrammetry: Close Range 3D Scanning. |
+| 2 | [tut](https://github.com/ZiadMansourM/tut) | CLI tool to ease management of multiple GitHub accounts from the same workstation. |
+| 3 | [cheapbot](https://github.com/ZiadMansourM/cheapbot) | Certbot plugin to automate dns-01 challenge for Namecheap. | 
+| 4 | [fstr](https://github.com/ZiadMansourM/fstr) | Akin to Python f-strings, Go utility that simplifies string formatting with interpolation. |
+| 5 | [api-management-solutions](https://github.com/ZiadMansourM/OS-APIM) | Review of Open Source API Management Solutions. |
+| 6 | [MailMetrics](https://github.com/ZiadMansourM/MailMetrics) | A privacy-first solution to gain insights from your email without compromising your data. |
+| 7 | [Jaeger ClickHouse](https://github.com/ZiadMansourM/Jaeger-ClickHouse) | Configure Jaeger to use ClickHouse. |
+| 8 | [windows-server-backups-automation](https://github.com/ZiadMansourM/windows-server-backups-automation) | Automate Windows Server backups with WinSCP and Powershell. |
 
 Languages and Tools
 -------------------
